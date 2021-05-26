@@ -26,4 +26,4 @@ WHEN I refresh the page <br>
 THEN the saved events persist <br>
 
 ## Preview
-![preview-image]("#")
+![preview-image]("./../assets/img/preview.png")
